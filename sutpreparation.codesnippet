@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sut</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    private var sut: &lt;#Subject Under Test type#&gt;!
+
+    override func setUp() {
+        super.setUp()
+        sut = &lt;#Subject Under Test Instantiation#&gt;
+    }
+
+    override func tearDown() {
+        sut = nil
+        super.tearDown()
+    }
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>A40A81B9-BC20-4DFB-8175-651120796B98</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Quickly set up a subject under test in an XCTestCase</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>XCTestCase Subject Under Test Preparation</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
