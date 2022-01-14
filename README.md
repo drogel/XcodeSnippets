@@ -24,6 +24,7 @@ When selecting a snippet on this list, take the `Completion` entry on the bottom
 
 List of the snippets on this repository, sorted by their `Completion` shortcut:
 
+* `mark`: A template for a basic mark comment.
 * `sut`: Quickly set up a subject under test in an XCTestCase.
 * `weakself`: Weak self with strong self guarding to avoid memory leaks in closures.
 
