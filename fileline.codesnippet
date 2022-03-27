@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Adds a file and a line parameters for XCTestCases</string>
+	<string>Adds a file and a line parameter for XCTestCases</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>File &amp; Line Parameters</string>
 	<key>IDECodeSnippetUserSnippet</key>
