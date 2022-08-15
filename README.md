@@ -24,10 +24,12 @@ When selecting a snippet on this list, take the `Completion` entry on the bottom
 
 List of the snippets on this repository, sorted by their `Completion` shortcut:
 
+* `callcount`: A template for a mock object that asserts a certain method was called a given amount of times, used in unit testing.
 * `file`: Adds a StaticString file parameter for XCTestCases.
 * `fileline`: Adds a file and a line parameter for XCTestCases.
 * `line`: Adds a UInt line parameter for XCTestCases.
 * `mark`: A template for a basic mark comment.
+* `mostrecent`: A template for a mock object that asserts a certain method was called with the expected parameter value, used in unit testing.
 * `sut`: Quickly set up a subject under test in an XCTestCase.
 * `weakself`: Weak self with strong self guarding to avoid memory leaks in closures.
 
