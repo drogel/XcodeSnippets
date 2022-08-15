@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>callcount</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>func assert&lt;#MethodName#&gt;(callCount: Int, file: StaticString = #filePath, line: UInt = #line) {
+    XCTAssertEqual(&lt;#MethodName#&gt;CallCount, callCount, file: file, line: line)
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>CF819A4D-0379-4A41-B613-35F9C6586AB8</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>A template for a mock object that asserts a certain method was called a given amount of times, used in unit testing</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Assert Call Count</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
