@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>utest</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>    func test_&lt;#Unit under test name#&gt;_with&lt;#Condition#&gt;_should&lt;#Expectation#&gt;() {
+        &lt;#Unit test#&gt;
+    }
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1C266700-84AA-478F-B202-432BED345344</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>A simple template for writing unit tests</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Unit Test</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
