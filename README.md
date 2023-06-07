@@ -31,6 +31,7 @@ List of the snippets on this repository, sorted by their `Completion` shortcut:
 * `mark`: A template for a basic mark comment.
 * `mostrecent`: A template for a mock object that asserts a certain method was called with the expected parameter value, used in unit testing.
 * `sut`: Quickly set up a subject under test in an XCTestCase.
+* `utest`: A template for writing unit tests.
 * `weakself`: Weak self with strong self guarding to avoid memory leaks in closures.
 
 ## License
